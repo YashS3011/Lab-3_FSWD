@@ -1,0 +1,51 @@
+{
+  "osType": "Windows_NT",
+  "totalMemory": 17057648640,
+  "freeMemory": 9462267904,
+  "cpuDetails": [
+    {
+      "model": "Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz",
+      "speed": 3912,
+      "times": {
+        "user": 401359,
+        "nice": 0,
+        "sys": 478859,
+        "idle": 3303328,
+        "irq": 78984
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz",
+      "speed": 3912,
+      "times": {
+        "user": 415984,
+        "nice": 0,
+        "sys": 204312,
+        "idle": 3563109,
+        "irq": 6765
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz",
+      "speed": 3912,
+      "times": {
+        "user": 451468,
+        "nice": 0,
+        "sys": 299750,
+        "idle": 3432187,
+        "irq": 4593
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz",
+      "speed": 3912,
+      "times": {
+        "user": 423765,
+        "nice": 0,
+        "sys": 198375,
+        "idle": 3561265,
+        "irq": 3515
+      }
+    }
+  ]
+}
